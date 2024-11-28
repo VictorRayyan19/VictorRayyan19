@@ -6,7 +6,7 @@ Hi there! I'm **AlHareth**, a computer science student at **ZUJ** and a proud st
 
 ## 🚀 About Me
 
-- **Name**: Victor
+- **Name**: AlHareth Rayyan (Nick name: Victor)
 - **Occupation**: Computer Science Student at **ZUJ** and **42**
 - **Hobbies**: Coding, competitive programming, open-source projects, learning new languages
 - **Languages I Speak**:
