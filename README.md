@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 # AlHareth Rayyan's GitHub Portfolio
-
-![Profile Picture](assets/photo_of_me.jpeg)
+<p align="center">
+  <img src="assets/photo_of_me.jpeg" alt="Alt text" width="200"/>
+</p>
 
 Hi there! I'm **AlHareth**, a computer science student at **ZUJ** and a proud student at **42**, who’s passionate about coding, problem-solving, and learning new technologies. I enjoy tackling real-world projects and am always looking to grow my skills.
 
