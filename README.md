@@ -2,6 +2,8 @@
 
 # AlHareth Rayyan's GitHub Portfolio
 
+![Profile Picture](assets/photo_of_me.jpeg)
+
 Hi there! I'm **AlHareth**, a computer science student at **ZUJ** and a proud student at **42**, who’s passionate about coding, problem-solving, and learning new technologies. I enjoy tackling real-world projects and am always looking to grow my skills.
 
 ## 🚀 About Me
