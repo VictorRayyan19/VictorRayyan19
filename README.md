@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# Victor's GitHub Portfolio
+# AlHareth Rayyan's GitHub Portfolio
 
-Hi there! I'm **Victor**, a computer science student at **ZUJ** and a proud student at **42**, who’s passionate about coding, problem-solving, and learning new technologies. I enjoy tackling real-world projects and am always looking to grow my skills.
+Hi there! I'm **AlHareth**, a computer science student at **ZUJ** and a proud student at **42**, who’s passionate about coding, problem-solving, and learning new technologies. I enjoy tackling real-world projects and am always looking to grow my skills.
 
 ## 🚀 About Me
 
